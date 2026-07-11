@@ -21,11 +21,10 @@ Aqui estão as linguagens e ferramentas que utilizo ou estou estudando ativament
 
 ---
 
-### Estatísticas do GitHub
+### 🚀 Aprendizado & Evolução
 
-![Estatísticas do GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nlinnek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nlinnek&layout=compact&theme=dracula)
+*   **Estudando Atualmente:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+*   **Próximos Objetivos:** ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
