@@ -23,9 +23,9 @@ Aqui estão as linguagens e ferramentas que utilizo ou estou estudando ativament
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nlinnek&show_icons=true&theme=radial)
+![Estatísticas do GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nlinnek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nlinnek&layout=compact&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nlinnek&layout=compact&theme=dracula)
 
 ---
 
