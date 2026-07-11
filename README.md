@@ -5,7 +5,7 @@ Sou Técnico em Informática e atualmente estou focando meus estudos em desenvol
 
 ### Tecnologias e Ferramentas
 Aqui estão as linguagens e ferramentas que utilizo ou estou estudando ativamente:
-### 🧠 Linguagens & Back-end
+### ⚙️ Linguagens & Back-end
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
